@@ -1,0 +1,20 @@
+{
+  "name": "substrate-telemetry-archipel.public.dappnode.eth",
+  "version": "0.0.1",
+  "description": "Substrate Telemetry Backend package for DAppNode.",
+  "avatar": "",
+  "type": "service",
+  "dependencies": {},
+  "author": "Lugus Labs (https://github.com/luguslabs)",
+  "contributors": [
+    "Francois Branciard (https://github.com/branciard)",
+    "Vladimir Ostapenco (https://github.com/vladostp)"
+  ],
+  "categories": [
+    "Developer tools"
+  ],
+  "links": {
+    "homepage": "https://github.com/luguslabs/DAppNodePackage-substrate-telemetry-backend.git"
+  },
+  "license": "GLP-3.0"
+}
