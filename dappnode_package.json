@@ -1,6 +1,6 @@
 {
   "name": "substrate-telemetry-backend-archipel.public.dappnode.eth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Substrate Telemetry Backend package for DAppNode.",
   "avatar": "",
   "type": "service",

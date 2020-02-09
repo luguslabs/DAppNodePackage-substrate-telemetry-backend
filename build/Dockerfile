@@ -10,7 +10,5 @@ WORKDIR /app
 
 COPY --from=builder /app/target/release/telemetry /usr/local/bin/
 
-EXPOSE 8000
-
 ENTRYPOINT [ "telemetry" ]
 
