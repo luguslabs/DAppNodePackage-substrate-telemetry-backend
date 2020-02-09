@@ -1,5 +1,5 @@
 {
-  "name": "substrate-telemetry-archipel.public.dappnode.eth",
+  "name": "substrate-telemetry-backend-archipel.public.dappnode.eth",
   "version": "0.0.1",
   "description": "Substrate Telemetry Backend package for DAppNode.",
   "avatar": "",
