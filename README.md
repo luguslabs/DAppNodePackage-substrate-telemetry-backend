@@ -1,8 +1,6 @@
-# DAppNodePackage-substrate-telemetry-backend
-Substrate Telemetry Backend package for DAppNode 
+# Substrate Telemetry Backend package for DAppNode 
 
-
-Actually a dappnode package metadata wrapper and docker image using [substrate-telemetry from Parity Tech](https://github.com/paritytech/substrate-telemetry.git) 
+Dappnode package metadata wrapper and docker image using [substrate-telemetry from Parity Tech](https://github.com/paritytech/substrate-telemetry.git) 
 
 It is an AragonApp whose repo is deployed at this address: [0x9f85ae5aefe4a3eff39d9a44212aae21dd15079a ](https://etherscan.io/address/0x9f85ae5aefe4a3eff39d9a44212aae21dd15079a) and whose ENS address is: [substrate-telemetry-backend-archipel.public.dappnode.eth](https://etherscan.io/enslookup?q=substrate-telemetry-backend-archipel.public.dappnode.eth])
 
