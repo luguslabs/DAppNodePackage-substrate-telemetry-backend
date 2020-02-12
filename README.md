@@ -2,6 +2,13 @@
 
 Dappnode package metadata wrapper and docker image using [substrate-telemetry from Parity Tech](https://github.com/paritytech/substrate-telemetry.git) 
 
+- This is the [DAppNode Package Substrate Telemetry Backend] running backend part only.
+If you want to run both frontend and backend or just Telemetry frontend install this [DAppNode Package Substrate Telemetry](https://github.com/luguslabs/DAppNodePackage-substrate-telemetry).
+
+- Frontend Telemetry Package can connect to this standalone Telemetry backend Package be configuring `REMOTE_PUBLIC_IP_TELEMETRY_BACKEND` in frontend package env.
+
+- [Install latest release here](https://github.com/luguslabs/DAppNodePackage-substrate-telemetry-backend/releases) of this DAppNode Package. 
+
 It is an AragonApp whose repo is deployed at this address: [0x9f85ae5aefe4a3eff39d9a44212aae21dd15079a ](https://etherscan.io/address/0x9f85ae5aefe4a3eff39d9a44212aae21dd15079a) and whose ENS address is: [substrate-telemetry-backend-archipel.public.dappnode.eth](https://etherscan.io/enslookup?q=substrate-telemetry-backend-archipel.public.dappnode.eth])
 
 ## Getting Started
