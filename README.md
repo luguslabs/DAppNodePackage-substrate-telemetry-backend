@@ -2,8 +2,8 @@
 
 Dappnode package metadata wrapper and docker image using [substrate-telemetry from Parity Tech](https://github.com/paritytech/substrate-telemetry.git) 
 
-- This is the [DAppNode Package Substrate Telemetry Backend] running backend part only.
-If you want to run both frontend and backend or just Telemetry frontend install this [DAppNode Package Substrate Telemetry](https://github.com/luguslabs/DAppNodePackage-substrate-telemetry).
+- This is the [DAppNode Package Substrate Telemetry Backend](https://github.com/luguslabs/DAppNodePackage-substrate-telemetry-backend/releases) running backend part only.
+If you want to run both frontend and backend or just Telemetry frontend install this [DAppNode Package Substrate Telemetry](https://github.com/luguslabs/DAppNodePackage-substrate-telemetry) instead.
 
 - Frontend Telemetry Package can connect to this standalone Telemetry backend Package be configuring `REMOTE_PUBLIC_IP_TELEMETRY_BACKEND` in frontend package env.
 
