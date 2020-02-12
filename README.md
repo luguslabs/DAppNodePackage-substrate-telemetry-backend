@@ -1,6 +1,6 @@
 # Substrate Telemetry Backend package for DAppNode 
 
-Dappnode package [metadata wrapper](dappnode_package.json) and [docker image](./build/Dockerfile) based on [substrate-telemetry from Parity Tech](https://github.com/paritytech/substrate-telemetry.git) 
+Dappnode package [metadata wrapper](dappnode_package.json) and [docker image](./build/Dockerfile) based on [Substrate-telemetry from Parity Tech](https://github.com/paritytech/substrate-telemetry.git) 
 
 - This is the [DAppNode Package Substrate Telemetry Backend](https://github.com/luguslabs/DAppNodePackage-substrate-telemetry-backend/releases) running backend part only.
 If you want to run both frontend and backend or just Telemetry frontend install this [DAppNode Package Substrate Telemetry](https://github.com/luguslabs/DAppNodePackage-substrate-telemetry) instead.
