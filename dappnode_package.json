@@ -1,7 +1,7 @@
 {
   "name": "substrate-telemetry-backend-archipel.public.dappnode.eth",
-  "version": "0.1.0",
-  "upstreamVersion": "b665555",
+  "version": "1.0.0",
+  "upstreamVersion": "85b7809",
   "shortDescription": "Substrate Telemetry Backend package for DAppNode.",
   "description": "From [Substrate Telemetry](https://github.com/paritytech/substrate-telemetry) Backend [package for DAppNode](https://github.com/luguslabs/DAppNodePackage-substrate-telemetry-backend).",
   "requirements": {
